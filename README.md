@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**caioedum/caioedum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou [Seu Nome]!
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Front-End | 🎨 Apaixonado por Design | 🚀 Sempre aprendendo algo novo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim:
+- 🌍 Localização: Brasil
+- 📚 Atualmente estudando: React.js e Typescript
+- 🎯 Objetivo: Contribuir com projetos open-source e criar soluções inovadoras.
+
+### Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seu-usuario)
+
+---
+Obrigado por visitar meu perfil! 😊
