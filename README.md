@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/asp.net%20core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
     <img src="https://img.shields.io/badge/winforms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </div>
 </details>
 
