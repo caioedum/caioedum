@@ -1,8 +1,9 @@
-# Olá! Me chamo Caio Martins. 👋
+<h2>Hello! I'm Caio Eduardo, welcome to my Github!</h2>
 
-## Sou [Seu Nome]!
-
-💻 Desenvolvedor Front-End | 🎨 Apaixonado por Design | 🚀 Sempre aprendendo algo novo.
+<div align="left">
+    <img height="180em" src="">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioedum&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=radical">
+</div>
 
 ### Sobre mim:
 - 🌍 Localização: Brasil
