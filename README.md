@@ -1,4 +1,4 @@
-<h2>Hello! I'm Caio Eduardo, welcome to my Github!</h2>
+ <h2>👋 Hello! I'm Caio Eduardo, welcome to my Github!</h2>
 
 <div align="left">
     <img height="180em" src="">
