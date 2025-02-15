@@ -61,7 +61,7 @@
 </details>
 
 <div align="center">
-  <h2> 🌟 Connect with Me 💬 </h2>
+  <h2> 🌟 Connect with me 💬 </h2>
   <a href="mailto:caio3martins@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
