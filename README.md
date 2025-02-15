@@ -7,7 +7,7 @@
 
 ## 🕹️ **About me**
 * Currently studying Systems Analysis and Development at FIAP
-* Graduated as an Informatics Technician at Senac
+* Graduated as an Informatics Technician at Senac Brasil
 * Primarily focused on Back-end Development, Cloud Computing, and Cloud Infrastructure
 
 ## 🎯 **My skills**
@@ -48,19 +48,15 @@
 </div>
 </details>
 
-
 <details>
-<summary> 🎨 Design </summary>
-<img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+<summary> 🛠️ Tools & Certifications </summary>
+<div align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
+    <img src="https://img.shields.io/badge/CCNA-%231A73E8.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+</div>
 </details>
 
-<details>
-<summary> 👀 Other Stuff </summary>
-<img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-</details>
