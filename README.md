@@ -6,9 +6,9 @@
 </div>
 
 ## 🕹️ **About me**
-* Currently studying Systems Analysis and Development at FIAP
-* Graduated as an Informatics Technician at Senac Brasil
-* Primarily focused on Back-end Development, Cloud Computing, and Cloud Infrastructure
+* Currently studying Systems Analysis and Development at FIAP;
+* Graduated as an Informatics Technician at Senac Brasil;
+* Primarily focused on Back-end Development, Cloud Computing, and Cloud Infrastructure.
 
  ## 🎯 **My skills**
 
